@@ -24,6 +24,10 @@
   </a>
 </div>
 
+<div align="center">
+  <h4><strong>Full-Stack Developer | Data-Driven Problem Solver | Competitive Programmer | Knight @leetcode | 2⭐ @codechef</strong></h4>
+</div>
+
 ---
 
 ### 🚀 About Me
@@ -147,7 +151,7 @@ I am a final-year Computer Science & Engineering student at **Aditya University*
     </td>
     <td width="50%" valign="top" align="center">
       <h4>💻 Top Languages</h4>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shannu-King&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&border_color=1E293B" width="100%" alt="Top Languages" />
+      <img src="https://raw.githubusercontent.com/Shannu-King/shanmukh-portfolio/main/profile_assets/langs.svg" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
