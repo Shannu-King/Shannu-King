@@ -17,7 +17,7 @@
   <a href="mailto:tarunturpudi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://portfolio.vercel.app" target="_blank">
+  <a href="https://shanmukh-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://leetcode.com/u/shanmukhtharun/" target="_blank">
@@ -32,7 +32,7 @@
 I am a final-year Computer Science & Engineering student at **Aditya University** who thrives at the intersection of robust backend architectures, dynamic frontend experiences, and competitive programming. With a strong academic foundation (**9.15/10 CGPA**) and hands-on industry experience, I build performance-driven software applications.
 
 * 🎓 **Education:** B.Tech in Computer Science & Engineering, Aditya University (CGPA: 9.15/10)
-* 💼 **Current Role:** Frontend Development Intern at *Technical Hub Pvt Ltd*
+* 💼 **Current Role:** Full Stack Development Intern at *Technical Hub Pvt Ltd*
 * 💡 **Core Interests:** Scalable System Design, Advanced Data Structures & Algorithms, Full-Stack Engineering
 
 ---
@@ -142,13 +142,13 @@ I am a final-year Computer Science & Engineering student at **Aditya University*
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="60%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
+      <h4>⚡ Contribution Streak</h4>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shannu-King&theme=tokyonight&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&text=94A3B8&border=1E293B" width="100%" alt="GitHub Streak" />
     </td>
-    <td width="40%" valign="top" align="center">
-      <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-        <img src="https://github-profile-trophy.vercel.app/?username=Shannu-King&theme=tokyonight&column=2&margin-w=10&margin-h=10&no-bg=true&no-border=true" width="100%" alt="GitHub Trophies" />
-      </a>
+    <td width="50%" valign="top" align="center">
+      <h4>🏆 GitHub Trophies</h4>
+      <img src="https://github-profile-trophy.vercel.app/?username=Shannu-King&theme=tokyonight&column=2&margin-w=5&margin-h=5&no-bg=true&no-border=true" width="100%" alt="GitHub Trophies" />
     </td>
   </tr>
 </table>
@@ -156,9 +156,19 @@ I am a final-year Computer Science & Engineering student at **Aditya University*
 <br/>
 
 <div align="center">
-  <h4>🔥 Contribution Snake</h4>
+  <h4>🔥 Contribution Activity Graph</h4>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shannu-King&theme=tokyonight&bg_color=0D1117&color=38BDF8&line=38BDF8&point=00f5d4&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</div>
+
+<br/>
+
+<!-- Note: To enable the Contribution Snake below, you must set up the octocat contribution snake github workflow in your repository -->
+<!--
+<div align="center">
+  <h4>🐍 Contribution Snake</h4>
   <img src="https://raw.githubusercontent.com/Shannu-King/Shannu-King/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </div>
+-->
 
 ---
 
@@ -167,7 +177,7 @@ I am a final-year Computer Science & Engineering student at **Aditya University*
 
 ┌──────────────────────────────────────────────────────────────────────────┐
 │  JAN 2026 - PRESENT                                                      │
-│  Frontend Development Intern at Technical Hub Pvt Ltd                   │
+│  Full Stack Development Intern at Technical Hub Pvt Ltd                  │
 │  • Building responsive web applications and styling with modern frameworks│
 └──────────────────────────────────────────────────────────────────────────┘
                               │
@@ -189,7 +199,10 @@ I am a final-year Computer Science & Engineering student at **Aditya University*
 ---
 
 <div align="center">
-  <img src="https://komarev.com/normal-badge/?username=Shannu-King&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/Shannu-King">
+    <img src="https://profile-counter.glitch.me/Shannu-King/count.svg" alt="Profile Views" />
+  </a>
   <br/>
   <sub>Designed with precision &bull; Built for performance</sub>
 </div>
+```
