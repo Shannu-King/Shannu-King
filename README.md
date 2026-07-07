@@ -1,10 +1,8 @@
-# 👋 Hi, I'm Shanmukha Tharun Turpudi
+<h1 align="center">Hi 👋, I'm Shanmukha Tharun</h1>
 
-## 💻 Full-Stack Developer | Competitive Programmer | CSE Undergraduate
-
-I'm a Final-Year Computer Science Engineering student at **Aditya University** passionate about building scalable web applications and solving challenging algorithmic problems.
-
----
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Competitive+Programmer;LeetCode+Knight+%7C+1853+Rating;Building+Scalable+Web+Applications" />
+</p>
 
 ## 🚀 About Me
 
