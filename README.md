@@ -171,4 +171,29 @@ I am a final-year Computer Science & Engineering student at **Aditya University*
 
 ---
 
-### ⏳ Professional Timeline
+### ⏳ Professional Journey
+
+* 💼 **Jan 2026 – Present**  
+  **Full Stack Development Intern** &bull; *Technical Hub Pvt Ltd*  
+  > Building responsive web applications, designing REST APIs, and styling with modern frameworks.
+
+* 🎓 **2022 – 2026**  
+  **B.Tech, Computer Science & Engineering** &bull; *Aditya University*  
+  > Academic performance: **9.15/10 CGPA** (up to 3rd Year).  
+  > Served as GeeksforGeeks Campus Mantri (Ambassador) leading on-campus tech initiatives.
+
+---
+
+### 💬 Favorite Quote
+
+> "First, solve the problem. Then, write the code." — *John Johnson*
+
+---
+
+<div align="center">
+  <a href="https://github.com/Shannu-King">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShannu-King%2FShannu-King&amp;count_bg=%2338BDF8&amp;title_bg=%231E293B&amp;title=Profile+Views&amp;edge_flat=true" alt="Profile Views" />
+  </a>
+  <br/>
+  <sub>Designed with precision &bull; Built for performance</sub>
+</div>
