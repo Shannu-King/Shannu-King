@@ -192,7 +192,7 @@ I am a final-year Computer Science & Engineering student at **Aditya University*
 
 <div align="center">
   <a href="https://github.com/Shannu-King">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShannu-King%2FShannu-King&amp;count_bg=%2338BDF8&amp;title_bg=%231E293B&amp;title=Profile+Views&amp;edge_flat=true" alt="Profile Views" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShannu-King%2FShannu-King&count_bg=%2338BDF8&title_bg=%231E293B&title=Profile+Views&edge_flat=true" alt="Profile Views" />
   </a>
   <br/>
   <sub>Designed with precision &bull; Built for performance</sub>
