@@ -16,7 +16,7 @@
   <a href="mailto:tarunturpudi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://shanmukh-portfolio.vercel.app" target="_blank">
+  <a href="https://shanmukh-portfolio-yqq9.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://leetcode.com/u/shanmukhtharun/" target="_blank">
