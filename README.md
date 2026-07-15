@@ -181,7 +181,7 @@ I am a final-year Computer Science & Engineering student at **Aditya University*
   **Full Stack Development Intern** &bull; *Technical Hub Pvt Ltd*  
   > Building responsive web applications, designing REST APIs, and styling with modern frameworks.
 
-* 🎓 **2022 – 2026**  
+* 🎓 **2023 – 2027**  
   **B.Tech, Computer Science & Engineering** &bull; *Aditya University*  
   > Academic performance: **9.15/10 CGPA** (up to 3rd Year).  
   > Served as GeeksforGeeks Campus Mantri (Ambassador) leading on-campus tech initiatives.
