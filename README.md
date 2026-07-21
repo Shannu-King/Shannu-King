@@ -1,10 +1,10 @@
 <!-- 
   🌟 PREMIUM DEVELOPER LANDING PAGE PROFILE README
-  Designed specifically for Shanmukha Tharun Turpudi
+  Designed specifically for Shanmukh Tharun Turpudi
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shannu-King/shanmukh-portfolio/main/profile_assets/banner.svg" width="100%" alt="Shanmukha Tharun Turpudi Banner" />
+  <img src="https://raw.githubusercontent.com/Shannu-King/shanmukh-portfolio/main/profile_assets/banner.svg?v=5" width="100%" alt="Shanmukh Tharun Turpudi Banner" />
 </div>
 
 <br />
